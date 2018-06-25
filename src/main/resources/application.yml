@@ -1,0 +1,4 @@
+#禁用springsecurity默认的登录框
+security:
+  basic:
+    enabled: false
